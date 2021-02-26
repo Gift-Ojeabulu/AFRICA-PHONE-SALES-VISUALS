@@ -7,7 +7,7 @@ I built Interactive Dashboard for the African Mobile Sales Data, Profit Dashboar
 
 * [PROFIT DASHBOARD](https://public.tableau.com/profile/ojeabulu.gift.oscar12345#!/vizhome/African_Mobile_Data_Dashboard/ProfitDashboard)
 * [SALESPERSON DASHBOARD ](https://public.tableau.com/profile/ojeabulu.gift.oscar12345#!/vizhome/African_Mobile_Data_Dashboard/SalespersonDashboard)
-* [PROFIT AND SALES IN DIFFERENT REGION,COUNTRY AND CITY](https://public.tableau.com/profile/ojeabulu.gift.oscar12345#!/vizhome/African_Mobile_Data_Dashboard/ProfitVsSales)
+* [PROFIT AND SALES IN DIFFERENT REGION, COUNTRY AND CITY](https://public.tableau.com/profile/ojeabulu.gift.oscar12345#!/vizhome/African_Mobile_Data_Dashboard/ProfitVsSales)
 
 
 
