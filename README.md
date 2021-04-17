@@ -1,4 +1,4 @@
-# AFRICA PHONE SALES INTERACTIVE DATA VISUALIZATION DASHBOARD
+# AFRICA PHONE SALES VISUALIZATION DASHBOARD
 I built Interactive Dashboard for the African Mobile Sales Data, Profit Dashboard, Salesperson Dashboard and Profit Vs Sales Dashboard with Tableau
 
 
